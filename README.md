@@ -1,2 +1,3 @@
-# SUNDIAL
-A dual oscillator tremolo pedal with a translucent casing.
+# Sundial Pedal Design Files & Software
+
+A dual oscillator tremolo pedal.
